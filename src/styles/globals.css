@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+.roboto{
+  font-family: var(--font-roboto);
+}
+.noto{
+  font-family: var(--font-Protest_Guerrilla);
+}
